@@ -1,0 +1,90 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 3 Nov 2022, 12:46:03
+    Author     : Eoinw
+*/
+head{
+    background-color: black;
+    width: 800px;
+}
+h1{
+    color: black;
+}
+body{
+    background-color: gray;
+    padding: 10pt;
+    margin: 4px;
+    border: 0.5px solid #0d3427;
+    color: white;
+    display: block;
+    width: 1000px;
+    text-align: left;
+}
+
+#ul {
+    background-color: blue;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 80%;
+    border: 1px solid #00b4cc;
+}
+
+.searchButton {
+    width: 130px;
+    height: 26px;
+    border: 1px solid #00b4cc;
+    border-color: black;
+    background: beige;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  
+}
+.searchButton:hover{
+    background-color: white;
+}
+
+.searchBar {
+    border: 1px solid #00b4cc;
+    border-color: black;
+    margin-top: 10px;
+    height: 26px;
+    width: 250px;
+}
+
+#nav{
+    background-color: white;
+    width: 420px;
+    list-style: none;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    border: 1px solid #00b4cc;
+    border-color: black;
+}
+#nav ul{
+    color: blanchedalmond;
+    font-size: 24px;
+    display:inline;
+    list-style: none;
+}
+
+#nav ul li a{
+    font-weight: bold;
+    position: relative;
+}
+#nav ul li {
+    display: inline-block;
+    position: relative;
+}
+
+#demo {
+    border: 1px solid #00b4cc;
+    border-color: black;
+    background-color: white;
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+             xsi:noNamespaceSchemaLocation='WADCA1.xsd'>
+    <product Code="101-01">
+        <category>Mercedes</category>
+        <Name>AMG</Name>
+        <Description>biturbo v8</Description>
+        <Quantity>15</Quantity>
+        <UnitPrice>60.950</UnitPrice>
+    </product>
+    <product Code="101-02">
+        <category>Ferrari</category>
+        <Name>La Ferrari</Name>
+        <Description>949bhp</Description>
+        <Quantity>5</Quantity>
+        <UnitPrice>420.000</UnitPrice>
+    </product>
+    <product Code="101-03">
+        <category>McLaren</category>
+        <Name>P1</Name>
+        <Description>900nm</Description>
+        <Quantity>10</Quantity>
+        <UnitPrice>150.000</UnitPrice>
+    </product>
+    <product Code="101-04">
+        <category>Ferrari</category>
+        <Name>Spider</Name>
+        <Description>Twin-Turbo V8</Description>
+        <Quantity>22</Quantity>
+        <UnitPrice>274.280</UnitPrice>
+    </product>
+    <product Code="101-05">
+        <category>Land Rover</category>
+        <Name>Defender</Name>
+        <Description>V8 Engine</Description>
+        <Quantity>18</Quantity>
+        <UnitPrice>113.500</UnitPrice>
+    </product>
+    <product Code="101-06">
+        <category>Ford</category>
+        <Name>Focus</Name>
+        <Description>345bhp</Description>
+        <Quantity>30</Quantity>
+        <UnitPrice>29990</UnitPrice>
+    </product>
+    <product Code="101-07">
+        <category>Lamborghini</category>
+        <Name>Gallardo</Name>
+        <Description>V10 Engine</Description>
+        <Quantity>2</Quantity>
+        <UnitPrice>241.200</UnitPrice>
+    </product>
+    <product Code="101-08">
+        <category>Dodge</category>
+        <Name>Challenger</Name>
+        <Description>717bhp</Description>
+        <Quantity>15</Quantity>
+        <UnitPrice>34.825</UnitPrice>
+    </product>
+    <product Code="101-09">
+        <category>Bugatti</category>
+        <Name>Chiron</Name>
+        <Description>1000bhp</Description>
+        <Quantity>1</Quantity>
+        <UnitPrice>825.000</UnitPrice>
+    </product>
+    <product Code="101-10">
+        <category>McLaren</category>
+        <Name>Senna</Name>
+        <Description>789bhp</Description>
+        <Quantity>5</Quantity>
+        <UnitPrice>850.000</UnitPrice>
+    </product>
+</productList>
